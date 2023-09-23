@@ -1,0 +1,23 @@
+.hero {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+    /* calc(100vh - 98px); */
+    background: linear-gradient(rgba(255, 255, 255, 0.331), rgba(255, 255, 255, 0.33)), url(../../../../public/images/bg.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+  }
+
+  .glasses {
+    width: 15vw;
+  }
+
+.turistearte {
+    width: 50vw;
+    padding: 20px 0;
+}
