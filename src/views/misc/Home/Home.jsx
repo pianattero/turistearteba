@@ -10,14 +10,16 @@ export const Home = () => {
           <img
             className="glasses"
             src="../../../../public/images/glasses.png"
+            href="Turistearte Logo"
           />
           <img
             className="turistearte"
             src="../../../../public/images/turistearte.png"
+            href="Turistearte Name"
           />
           <h3>Web en construcción...</h3>
         </div>
-        <div className="fixed-bottom text-center p-4 bg-light">
+        <div className="contact-info fixed-bottom text-center p-4">
           <ContactInfo />
         </div>
       </div>

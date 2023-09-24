@@ -1,0 +1,12 @@
+.contact a {
+    padding: 10px;
+}
+
+.logo {
+    height: 35px;
+    opacity: 1;
+}
+
+.logo:hover {
+    opacity: 0.8;
+}
