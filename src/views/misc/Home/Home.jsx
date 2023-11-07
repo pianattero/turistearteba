@@ -9,12 +9,12 @@ export const Home = () => {
         <div className="imgs">
           <img
             className="glasses"
-            src="../../../../public/images/glasses.png"
+            src="images/glasses.png"
             href="Turistearte Logo"
           />
           <img
             className="turistearte"
-            src="../../../../public/images/turistearte.png"
+            src="images/turistearte.png"
             href="Turistearte Name"
           />
           <h3>Web en construcción...</h3>

@@ -9,11 +9,7 @@ export const ContactInfo = () => {
           rel="noreferrer"
           target="_blank"
         >
-          <img
-            className="logo"
-            src="../../../public/images/ig.png"
-            href="Instagram Logo"
-          />
+          <img className="logo" src="images/ig.png" href="Instagram Logo" />
         </a>
 
         <a
@@ -21,19 +17,15 @@ export const ContactInfo = () => {
           rel="noreferrer"
           target="_blank"
         >
-          <img
-            className="logo"
-            src="../../../public/images/wpp.png"
-            href="Whatsapp Logo"
-          />
+          <img className="logo" src="images/wpp.png" href="Whatsapp Logo" />
         </a>
 
-        <a href="" rel="noreferrer" target="_blank">
-          <img
-            className="logo"
-            src="../../../public/images/mail.png"
-            href="Mail Logo"
-          />
+        <a
+          href="mailto:info@turistearte.com.ar"
+          rel="noreferrer"
+          target="_blank"
+        >
+          <img className="logo" src="images/mail.png" href="Mail Logo" />
         </a>
       </div>
     </>

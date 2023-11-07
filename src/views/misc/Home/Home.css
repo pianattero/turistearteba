@@ -2,7 +2,7 @@
     width: 100vw;
     height: 100vh;
     /* calc(100vh - 98px); */
-    background: linear-gradient(rgba(255, 255, 255, 0.331), rgba(255, 255, 255, 0.33)), url(../../../../public/images/bg.jpg);
+    background: linear-gradient(rgba(255, 255, 255, 0.331), rgba(255, 255, 255, 0.33)), url(images/bg.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
